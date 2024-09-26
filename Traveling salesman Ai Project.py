@@ -1,7 +1,7 @@
 #Program designed to solve Travelling Salesman problem with Ant Colony Optimization
 
 import random, datetime, math
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 # Current time and title of the project for the index
 def logFormat():
